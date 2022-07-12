@@ -1,5 +1,5 @@
 create table calc(uid int, loadtime Date);
-
+/* https://www.freesion.com/article/3730993974/ */
 insert into calc values(201,"2017/1/1");
 insert into calc values(201,'2017/1/2');
 insert into calc values(201,'2017/1/3');
